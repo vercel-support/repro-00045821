@@ -1,6 +1,6 @@
 {
   "functions": {
-    "pages/api/search.js": {
+    "api/search.ts": {
       "includeFiles": "_posts/**"
     }
   }
